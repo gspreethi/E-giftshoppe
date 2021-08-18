@@ -1,0 +1,1 @@
+gifts.json and users.json are the two collections in giftStoreDb database

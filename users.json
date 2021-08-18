@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "606aa45cdc9b0543a08ef2e8"
+  },
+  "userName": "sandeep",
+  "userId": "sandeepReddy",
+  "userPassword": "sandeepReddy123",
+  "__v": 0,
+  "isAdmin": false
+},{
+  "_id": {
+    "$oid": "606ffbd6f1604e29aca6959c"
+  },
+  "userName": "Admin",
+  "userId": "giftstoreAdmin",
+  "userPassword": "admin",
+  "__v": 0,
+  "isAdmin": true
+},{
+  "_id": {
+    "$oid": "60700aa5f1604e29aca6959d"
+  },
+  "userName": "Maheshwar Reddy",
+  "userId": "maheshwarReddy",
+  "userPassword": "maheshwarReddy",
+  "__v": 0,
+  "isAdmin": false
+}]

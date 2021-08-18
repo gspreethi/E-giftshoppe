@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "606d0f8b618d4d50a0f34e14"
+  },
+  "name": "The Mystery of the Parsee Lawyer",
+  "author": "Arthur Conan Doyle",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/51IzDISIXOL._SX326_BO1,204,203,200_.jpg",
+  "price": 799,
+  "rating": 5,
+  "year": 2021,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d12b3618d4d50a0f34e15"
+  },
+  "name": "The Presidential Years: 2012-2017",
+  "author": "Pranab Mukherjee",
+  "image": "https://images-eu.ssl-images-amazon.com/images/I/5163PKxRQAL._AC_SX184_.jpg",
+  "price": 430,
+  "rating": 4,
+  "year": 2021,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7837235fb92b9892b6f5"
+  },
+  "name": "India 2020: A Vision for the New Millennium",
+  "image": "https://m.media-amazon.com/images/I/41euFUfPmKL._AC_UY218_.jpg",
+  "price": 729,
+  "author": "APJ Abdul Kalam",
+  "year": 1998,
+  "rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d786a235fb92b9892b6f6"
+  },
+  "name": "Wings of Fire: An Autobiography",
+  "image": "https://www.jagranjosh.com/imported/images/E/GK/wings-of-fire-biography-kalam.jpg",
+  "price": 320,
+  "author": "APJ Abdul Kalam",
+  "year": 1999,
+  "rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d78b1235fb92b9892b6f7"
+  },
+  "name": "Ignited Minds: Unleashing the Power within India",
+  "image": "https://m.media-amazon.com/images/I/81y66NkOkpL._AC_UY218_.jpg",
+  "price": 720,
+  "author": "APJ Abdul Kalam",
+  "year": 2002,
+  "rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7916235fb92b9892b6f8"
+  },
+  "name": "My Journey: Transforming Dreams into Actions",
+  "image": "https://m.media-amazon.com/images/I/61jrrdV3EaL._AC_UY218_.jpg",
+  "price": 120,
+  "author": "APJ Abdul Kalam",
+  "year": 2013,
+  "rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d793c235fb92b9892b6f9"
+  },
+  "name": "Turning Points : A Journey Through Challenges",
+  "image": "https://m.media-amazon.com/images/I/81qImLPNfIL._AC_UY218_.jpg",
+  "price": 155,
+  "author": "APJ Abdul Kalam",
+  "year": 2014,
+  "rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7a1a235fb92b9892b6fa"
+  },
+  "name": "The Girl in Room 105",
+  "image": "https://m.media-amazon.com/images/I/51gJGVE+tsL._AC_UY218_.jpg",
+  "price": 173,
+  "author": "Chetan Bhagat",
+  "year": 2018,
+  "rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7a4f235fb92b9892b6fb"
+  },
+  "name": "One Indian Girl",
+  "image": "https://m.media-amazon.com/images/I/51kA-Upq61L._AC_UY218_.jpg",
+  "price": 115,
+  "author": "Chetan Bhagat",
+  "year": 2016,
+  "rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7a7c235fb92b9892b6fc"
+  },
+  "name": "The 3 Mistakes of My Life",
+  "image": "https://m.media-amazon.com/images/I/51nziLHeduL._AC_UY218_.jpg",
+  "price": 169,
+  "author": "Chetan Bhagat",
+  "year": 2016,
+  "rating": 4,
+  "__v": 0
+}]
